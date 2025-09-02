@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+I am a fifth-year Ph.D. student in the Computer Science department of [UT Austin](https://www.utexas.edu/), where I am fortunate to be advised by Prof. [Shuchi Chawla](https://www.cs.utexas.edu/people/faculty-researchers/shuchi-chawla). Prior to joining UT, I obtained an integrated master's Diploma from the Electrical and Computer Engineering department at the [National Technical University of Athens](https://www.ntua.gr/en/), where I worked with Prof. [Dimitris Fotakis](http://www.softlab.ntua.gr/~fotakis/). I've also spent two semesters as a research intern in [LIP6 Institute](https://www.lip6.fr/?LANG=en), supervised by Prof. [Evripidis Bampis](https://webia.lip6.fr/~bampise/).
+
+My research focuses on optimisation in uncertain environments and spans many areas, including the design of online algorithms, online-learning algorithms and data-driven algorithmic design. Recently, I have focused in problems that lie in the intersection of Computer Science, Operations Research and Economics such as revenue maximization in online markets and bandit super-processes.
+
+
+[<i class="fa-solid fa-file-pdf"></i> My CV](assets/pdf/example_pdf.pdf) [Last Updated: August 2025].
+
+
 [Testing] I am a post-doc at MIT CSAIL, working with [Prof. Costantinos Daskalakis](https://people.csail.mit.edu/costis/) and [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/).
 
 Prior to that, I spent 4 wonderful years at UT Austin, working with [Prof. Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/). 
