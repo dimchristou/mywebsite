@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doc at MIT CSAIL, working with [Prof. Costantinos Daskalakis](https://people.csail.mit.edu/costis/) and [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/).
+[Testing] I am a post-doc at MIT CSAIL, working with [Prof. Costantinos Daskalakis](https://people.csail.mit.edu/costis/) and [Prof. Antonio Torralba](https://groups.csail.mit.edu/vision/torralbalab/).
 
 Prior to that, I spent 4 wonderful years at UT Austin, working with [Prof. Alexandros Dimakis](https://users.ece.utexas.edu/~dimakis/). 
 
