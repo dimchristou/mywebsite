@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giannis Daras"
+title                    : "Dimitris Christou"
 title_separator          : "-"
-name                     : &name "Giannis Daras"
+name                     : &name "Dimitris Christou"
 description              : &description "Ph.D. student, Computer Science, UT Austin"
 url                      : https://giannisdaras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Giannis Daras"
+  name             : "Dimitris Christou"
   avatar           : "avatar.jpeg"
-  bio              : "Post-doc, MIT CSAIL"
-  location         : "Cambridge, MA"
+  bio              : "PhD Student, UT Austin"
+  location         : "Austin, TX"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=LaScvbQAAAAJ"
-  email            : "daras.giannhs@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=t46iMM8AAAAJ"
+  email            : "christou@cs.utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "giannisdaras"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -105,10 +105,10 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/6082275/gdaras"
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "giannis_daras"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
